@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-3r_&*bjil+t_cf#4u8q3drciqpz_f%476v9#hd0!2@lu3js)k(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-dhardi-boutiqueadov1-zjixx08tts8.ws.codeinstitute-ide.net','boutique-ado-2026.herokuapp.com','localhost']
+ALLOWED_HOSTS = ['8000-dhardi-boutiqueadov1-zjixx08tts8.ws.codeinstitute-ide.net','boutique-ado-2026.herokuapp.com','localhost','boutique-ado-2026-850ff32089d4.herokuapp.com']
 
 
 # Application definition
